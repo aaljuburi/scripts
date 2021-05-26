@@ -1,0 +1,1 @@
+/home/aous/scripts/date.sh
